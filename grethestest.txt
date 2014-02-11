@@ -1,0 +1,1 @@
+bare tester forbindelsen til remote
